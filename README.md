@@ -62,8 +62,8 @@ It integrates **helmet detection, alcohol sensing, drowsiness monitoring, temper
 
 
 ## 👨‍👩‍👦 Contributors
-- **MD. Kawsar Habib** (21201327)  
 - **Tasmin Ahmed Oni** (21201532)  
+- **MD. Kawsar Habib** (21201327)  
 - **Tushar Chowdhury** (21301010)  
 - **Swapnil Saha** (21301217)  
 
