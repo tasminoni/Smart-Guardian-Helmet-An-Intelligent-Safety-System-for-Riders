@@ -52,11 +52,6 @@ It integrates **helmet detection, alcohol sensing, drowsiness monitoring, temper
 
 ---
 
-## 💰 Cost Breakdown
-**Total Cost:** `4780 BDT`
-
----
-
 ## ⚙️ Installation
 1. Connect all hardware components as per the circuit schematic.  
 2. Upload the provided Arduino code using **Arduino IDE**.  
@@ -65,52 +60,12 @@ It integrates **helmet detection, alcohol sensing, drowsiness monitoring, temper
 
 ---
 
-## 🎮 Usage
-- Wear the helmet to start the engine.  
-- The system **alerts and disables the engine** if:  
-  - Alcohol is detected  
-  - Drowsiness is detected  
-  - Helmet is removed  
-- Real-time alerts via **buzzer and LCD display**.  
-- Auto lights activate in **low-light conditions**.  
-
----
-
-## 🛠️ Challenges & Solutions
-- **Weak RF Signals** → Solved using a proper antenna + `RadioHead` library.  
-- **False Drowsiness Detection** → Added time check for accurate detection.  
-- **Sensor Calibration** → Adjusted thresholds in hardware & software.  
-- **Battery Drain** → Optimized data transmission intervals.  
-- **Fitting Components** → Compact layout & strategic sensor placement.  
-
----
-
-## 🌱 Sustainability & Impact
-- ⚡ Energy-efficient with low-power components.  
-- ♻️ Recyclable materials used for reused parts.  
-- 🚑 Reduces **accidents, medical waste, and pollution**.  
-
----
-
-## 🔮 Future Work
-- 📍 GPS and GSM integration for **location tracking & SMS alerts**.  
-- 📶 Bluetooth/Wi-Fi upgrade for improved communication.  
-- 📏 Smaller design with **custom PCBs**.  
-- ☀️ Rechargeable battery with **solar charging**.  
-
----
 
 ## 👨‍👩‍👦 Contributors
 - **MD. Kawsar Habib** (21201327)  
 - **Tasmin Ahmed Oni** (21201532)  
 - **Tushar Chowdhury** (21301010)  
 - **Swapnil Saha** (21301217)  
-
----
-
-## 📚 References
-- Krisna, R. (2025). *How to Build a Smart Helmet using Arduino?* CircuitDigest.  
-- Solution, T. (n.d.). *Myproject.docx.* Scribd.  
 
 ---
 
